@@ -1,5 +1,5 @@
 # phone-verification
-Phone Verification using Twilio API for both SMS and Voice options
+Phone Verification using Twilio API for both SMS and Voice options in Java (w JSP, HTML, CSS)
 
 [![alt text](https://raw.githubusercontent.com/anup756/phone-verification/master/images/twilio-logo-red.png)](https://www.twilio.com)
 
