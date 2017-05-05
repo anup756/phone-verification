@@ -1,7 +1,7 @@
 # phone-verification
 Phone Verification using Twilio API for both SMS and Voice options
 
-![alt text](https://raw.githubusercontent.com/anup756/phone-verification/master/images/twilio-logo-red.png)
+[![alt text](https://raw.githubusercontent.com/anup756/phone-verification/master/images/twilio-logo-red.png)](https://www.twilio.com)
 
 ###### Things you need:
 
