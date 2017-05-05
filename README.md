@@ -21,5 +21,6 @@ If you use maven, you need to add this dependency in your *pom.xml* file:
 ```
 
 If you don't use maven, use this jar file : [twilio-7.x.x-with-dependencies.jar](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.twilio.sdk%22%20AND%20a%3A%22twilio%22)
+
 For verification, we will generate 7 digit random number (unique) and once verified, add that number to the user created. This step is after the user creates an account and when the account is still locked.
 ![alt text](https://raw.githubusercontent.com/anup756/phone-verification/master/images/phoneverification.png)
