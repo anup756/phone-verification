@@ -3,7 +3,7 @@ Phone Verification using Twilio API for both SMS and Voice options
 
 ![alt text](https://raw.githubusercontent.com/anup756/phone-verification/master/images/twilio-logo-red.png)
 
-Things you need:
+###### Things you need:
 
 1. Twilio Account SID
 2. Twilio Authentication Token
@@ -11,7 +11,7 @@ Things you need:
 4. Twilio Application SID (Optional)
 5. Twilio Agent Number (Optional)
 
-If you use maven, you need to add this dependency in your pom.xml file:
+If you use maven, you need to add this dependency in your *pom.xml* file:
 ```xml
 <dependency>
   <groupId>com.twilio.sdk</groupId>
